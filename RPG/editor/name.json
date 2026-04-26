@@ -1,0 +1,219 @@
+{
+  "version": 1,
+  "cultures": {
+    "elf_female": {
+      "label": "エルフ女性",
+      "description": "柔らかく流れる響き",
+      "syllableGroups": {
+        "open_soft": [
+          {
+            "text": "エ",
+            "weight": 8
+          },
+          {
+            "text": "リ",
+            "weight": 10
+          },
+          {
+            "text": "シェ",
+            "weight": 5
+          },
+          {
+            "text": "ミ",
+            "weight": 6
+          },
+          {
+            "text": "エ",
+            "weight": 5
+          }
+        ],
+        "mid_flow": [
+          {
+            "text": "リ",
+            "weight": 10
+          },
+          {
+            "text": "リア",
+            "weight": 7
+          },
+          {
+            "text": "レ",
+            "weight": 6
+          },
+          {
+            "text": "ネ",
+            "weight": 5
+          }
+        ],
+        "end_noble": [
+          {
+            "text": "リア",
+            "weight": 10
+          },
+          {
+            "text": "シア",
+            "weight": 8
+          },
+          {
+            "text": "リエ",
+            "weight": 5
+          },
+          {
+            "text": "ミア",
+            "weight": 6
+          }
+        ]
+      },
+      "patterns": [
+        {
+          "id": "short",
+          "slots": [
+            "open_soft",
+            "end_noble"
+          ],
+          "weight": 15
+        },
+        {
+          "id": "standard",
+          "slots": [
+            "open_soft",
+            "mid_flow",
+            "end_noble"
+          ],
+          "weight": 60
+        },
+        {
+          "id": "long",
+          "slots": [
+            "open_soft",
+            "mid_flow",
+            "mid_flow",
+            "end_noble"
+          ],
+          "weight": 25
+        }
+      ],
+      "rules": {
+        "minLength": 2,
+        "maxLength": 10,
+        "maxRepeat": 2,
+        "forbiddenStart": [
+          "ッ"
+        ],
+        "forbiddenEnd": [
+          "ッ",
+          "ァ",
+          "ィ",
+          "ゥ",
+          "ェ",
+          "ォ"
+        ]
+      }
+    },
+    "elf_male": {
+      "label": "エルフ男性",
+      "description": "柔らかいが少し硬質",
+      "syllableGroups": {
+        "open_soft": [
+          {
+            "text": "エ",
+            "weight": 8
+          },
+          {
+            "text": "リ",
+            "weight": 10
+          },
+          {
+            "text": "ヴァ",
+            "weight": 6
+          },
+          {
+            "text": "ル",
+            "weight": 7
+          }
+        ],
+        "mid_flow": [
+          {
+            "text": "リ",
+            "weight": 9
+          },
+          {
+            "text": "ル",
+            "weight": 8
+          },
+          {
+            "text": "レ",
+            "weight": 6
+          },
+          {
+            "text": "ネ",
+            "weight": 5
+          }
+        ],
+        "end_noble": [
+          {
+            "text": "ル",
+            "weight": 8
+          },
+          {
+            "text": "エル",
+            "weight": 6
+          },
+          {
+            "text": "リオン",
+            "weight": 4
+          },
+          {
+            "text": "ネス",
+            "weight": 4
+          }
+        ]
+      },
+      "patterns": [
+        {
+          "id": "short",
+          "slots": [
+            "open_soft",
+            "end_noble"
+          ],
+          "weight": 20
+        },
+        {
+          "id": "standard",
+          "slots": [
+            "open_soft",
+            "mid_flow",
+            "end_noble"
+          ],
+          "weight": 60
+        },
+        {
+          "id": "long",
+          "slots": [
+            "open_soft",
+            "mid_flow",
+            "mid_flow",
+            "end_noble"
+          ],
+          "weight": 20
+        }
+      ],
+      "rules": {
+        "minLength": 2,
+        "maxLength": 10,
+        "maxRepeat": 2,
+        "forbiddenStart": [
+          "ッ"
+        ],
+        "forbiddenEnd": [
+          "ッ",
+          "ァ",
+          "ィ",
+          "ゥ",
+          "ェ",
+          "ォ"
+        ]
+      }
+    }
+  }
+}

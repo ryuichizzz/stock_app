@@ -1,0 +1,3660 @@
+{
+  "version": 1,
+  "cultures": {
+    "elf_male": {
+      "label": "エルフ男性",
+      "description": "柔らかいが少し硬質",
+      "syllables": {
+        "start": [
+          {
+            "text": "ア",
+            "weight": 5
+          },
+          {
+            "text": "イ",
+            "weight": 5
+          },
+          {
+            "text": "イグ",
+            "weight": 5
+          },
+          {
+            "text": "ウリ",
+            "weight": 5
+          },
+          {
+            "text": "エ",
+            "weight": 8
+          },
+          {
+            "text": "エル",
+            "weight": 5
+          },
+          {
+            "text": "カル",
+            "weight": 5
+          },
+          {
+            "text": "キー",
+            "weight": 5
+          },
+          {
+            "text": "ク",
+            "weight": 5
+          },
+          {
+            "text": "クォ",
+            "weight": 5
+          },
+          {
+            "text": "クロ",
+            "weight": 5
+          },
+          {
+            "text": "ケ",
+            "weight": 5
+          },
+          {
+            "text": "コー",
+            "weight": 5
+          },
+          {
+            "text": "サイ",
+            "weight": 5
+          },
+          {
+            "text": "テル",
+            "weight": 5
+          },
+          {
+            "text": "ニ",
+            "weight": 5
+          },
+          {
+            "text": "ニー",
+            "weight": 5
+          },
+          {
+            "text": "ファ",
+            "weight": 5
+          },
+          {
+            "text": "ミ",
+            "weight": 5
+          },
+          {
+            "text": "メル",
+            "weight": 5
+          },
+          {
+            "text": "ユリ",
+            "weight": 5
+          },
+          {
+            "text": "ラ",
+            "weight": 5
+          },
+          {
+            "text": "ラー",
+            "weight": 5
+          },
+          {
+            "text": "リ",
+            "weight": 5
+          },
+          {
+            "text": "リー",
+            "weight": 5
+          },
+          {
+            "text": "ル",
+            "weight": 5
+          },
+          {
+            "text": "ルー",
+            "weight": 5
+          },
+          {
+            "text": "レ",
+            "weight": 5
+          },
+          {
+            "text": "ロ",
+            "weight": 5
+          },
+          {
+            "text": "ヴァ",
+            "weight": 6
+          },
+          {
+            "text": "アイ",
+            "weight": 5
+          }
+        ],
+        "mid": [
+          {
+            "text": "オ",
+            "weight": 5
+          },
+          {
+            "text": "ゲ",
+            "weight": 5
+          },
+          {
+            "text": "テ",
+            "weight": 5
+          },
+          {
+            "text": "ナ",
+            "weight": 5
+          },
+          {
+            "text": "ネ",
+            "weight": 5
+          },
+          {
+            "text": "フ",
+            "weight": 5
+          },
+          {
+            "text": "ファ",
+            "weight": 5
+          },
+          {
+            "text": "フィ",
+            "weight": 5
+          },
+          {
+            "text": "フォ",
+            "weight": 5
+          },
+          {
+            "text": "マ",
+            "weight": 5
+          },
+          {
+            "text": "ミル",
+            "weight": 5
+          },
+          {
+            "text": "ラ",
+            "weight": 5
+          },
+          {
+            "text": "ラル",
+            "weight": 5
+          },
+          {
+            "text": "リ",
+            "weight": 9
+          },
+          {
+            "text": "レ",
+            "weight": 6
+          },
+          {
+            "text": "ニ",
+            "weight": 5
+          },
+          {
+            "text": "サ",
+            "weight": 5
+          },
+          {
+            "text": "ザ",
+            "weight": 5
+          },
+          {
+            "text": "ナ",
+            "weight": 5
+          },
+          {
+            "text": "ゲリ",
+            "weight": 5
+          }
+        ],
+        "end": [
+          {
+            "text": "ル",
+            "weight": 8
+          },
+          {
+            "text": "エル",
+            "weight": 6
+          },
+          {
+            "text": "リオン",
+            "weight": 4
+          },
+          {
+            "text": "ネス",
+            "weight": 4
+          },
+          {
+            "text": "リヨン",
+            "weight": 5
+          },
+          {
+            "text": "ス",
+            "weight": 5
+          },
+          {
+            "text": "リン",
+            "weight": 5
+          },
+          {
+            "text": "ネル",
+            "weight": 5
+          },
+          {
+            "text": "ク",
+            "weight": 5
+          },
+          {
+            "text": "ロ",
+            "weight": 5
+          },
+          {
+            "text": "ロス",
+            "weight": 5
+          },
+          {
+            "text": "リク",
+            "weight": 5
+          },
+          {
+            "text": "ロー",
+            "weight": 5
+          },
+          {
+            "text": "ング",
+            "weight": 5
+          },
+          {
+            "text": "リー",
+            "weight": 5
+          },
+          {
+            "text": "レス",
+            "weight": 5
+          },
+          {
+            "text": "アン",
+            "weight": 5
+          },
+          {
+            "text": "オン",
+            "weight": 5
+          },
+          {
+            "text": "ラン",
+            "weight": 5
+          },
+          {
+            "text": "ン",
+            "weight": 5
+          },
+          {
+            "text": "ウス",
+            "weight": 5
+          }
+        ]
+      },
+      "patterns": [
+        {
+          "id": "short",
+          "slots": [
+            "start",
+            "end"
+          ],
+          "weight": 20
+        },
+        {
+          "id": "standard",
+          "slots": [
+            "start",
+            "mid",
+            "end"
+          ],
+          "weight": 60
+        },
+        {
+          "id": "long",
+          "slots": [
+            "start",
+            "mid",
+            "mid",
+            "end"
+          ],
+          "weight": 20
+        }
+      ],
+      "rules": {
+        "minLength": 2,
+        "maxLength": 10,
+        "maxRepeat": 2,
+        "forbiddenStart": [
+          "ッ"
+        ],
+        "forbiddenEnd": []
+      },
+      "syllableGroups": {
+        "start": [
+          {
+            "text": "ア",
+            "weight": 5
+          },
+          {
+            "text": "イ",
+            "weight": 5
+          },
+          {
+            "text": "イグ",
+            "weight": 5
+          },
+          {
+            "text": "ウリ",
+            "weight": 5
+          },
+          {
+            "text": "エ",
+            "weight": 8
+          },
+          {
+            "text": "エル",
+            "weight": 5
+          },
+          {
+            "text": "カル",
+            "weight": 5
+          },
+          {
+            "text": "キー",
+            "weight": 5
+          },
+          {
+            "text": "ク",
+            "weight": 5
+          },
+          {
+            "text": "クォ",
+            "weight": 5
+          },
+          {
+            "text": "クロ",
+            "weight": 5
+          },
+          {
+            "text": "ケ",
+            "weight": 5
+          },
+          {
+            "text": "コー",
+            "weight": 5
+          },
+          {
+            "text": "サイ",
+            "weight": 5
+          },
+          {
+            "text": "テル",
+            "weight": 5
+          },
+          {
+            "text": "ニ",
+            "weight": 5
+          },
+          {
+            "text": "ニー",
+            "weight": 5
+          },
+          {
+            "text": "ファ",
+            "weight": 5
+          },
+          {
+            "text": "ミ",
+            "weight": 5
+          },
+          {
+            "text": "メル",
+            "weight": 5
+          },
+          {
+            "text": "ユリ",
+            "weight": 5
+          },
+          {
+            "text": "ラ",
+            "weight": 5
+          },
+          {
+            "text": "ラー",
+            "weight": 5
+          },
+          {
+            "text": "リ",
+            "weight": 5
+          },
+          {
+            "text": "リー",
+            "weight": 5
+          },
+          {
+            "text": "ル",
+            "weight": 5
+          },
+          {
+            "text": "ルー",
+            "weight": 5
+          },
+          {
+            "text": "レ",
+            "weight": 5
+          },
+          {
+            "text": "ロ",
+            "weight": 5
+          },
+          {
+            "text": "ヴァ",
+            "weight": 6
+          },
+          {
+            "text": "アイ",
+            "weight": 5
+          }
+        ],
+        "mid": [
+          {
+            "text": "オ",
+            "weight": 5
+          },
+          {
+            "text": "ゲ",
+            "weight": 5
+          },
+          {
+            "text": "テ",
+            "weight": 5
+          },
+          {
+            "text": "ナ",
+            "weight": 5
+          },
+          {
+            "text": "ネ",
+            "weight": 5
+          },
+          {
+            "text": "フ",
+            "weight": 5
+          },
+          {
+            "text": "ファ",
+            "weight": 5
+          },
+          {
+            "text": "フィ",
+            "weight": 5
+          },
+          {
+            "text": "フォ",
+            "weight": 5
+          },
+          {
+            "text": "マ",
+            "weight": 5
+          },
+          {
+            "text": "ミル",
+            "weight": 5
+          },
+          {
+            "text": "ラ",
+            "weight": 5
+          },
+          {
+            "text": "ラル",
+            "weight": 5
+          },
+          {
+            "text": "リ",
+            "weight": 9
+          },
+          {
+            "text": "レ",
+            "weight": 6
+          },
+          {
+            "text": "ニ",
+            "weight": 5
+          },
+          {
+            "text": "サ",
+            "weight": 5
+          },
+          {
+            "text": "ザ",
+            "weight": 5
+          },
+          {
+            "text": "ナ",
+            "weight": 5
+          },
+          {
+            "text": "ゲリ",
+            "weight": 5
+          }
+        ],
+        "end": [
+          {
+            "text": "ル",
+            "weight": 8
+          },
+          {
+            "text": "エル",
+            "weight": 6
+          },
+          {
+            "text": "リオン",
+            "weight": 4
+          },
+          {
+            "text": "ネス",
+            "weight": 4
+          },
+          {
+            "text": "リヨン",
+            "weight": 5
+          },
+          {
+            "text": "ス",
+            "weight": 5
+          },
+          {
+            "text": "リン",
+            "weight": 5
+          },
+          {
+            "text": "ネル",
+            "weight": 5
+          },
+          {
+            "text": "ク",
+            "weight": 5
+          },
+          {
+            "text": "ロ",
+            "weight": 5
+          },
+          {
+            "text": "ロス",
+            "weight": 5
+          },
+          {
+            "text": "リク",
+            "weight": 5
+          },
+          {
+            "text": "ロー",
+            "weight": 5
+          },
+          {
+            "text": "ング",
+            "weight": 5
+          },
+          {
+            "text": "リー",
+            "weight": 5
+          },
+          {
+            "text": "レス",
+            "weight": 5
+          },
+          {
+            "text": "アン",
+            "weight": 5
+          },
+          {
+            "text": "オン",
+            "weight": 5
+          },
+          {
+            "text": "ラン",
+            "weight": 5
+          },
+          {
+            "text": "ン",
+            "weight": 5
+          },
+          {
+            "text": "ウス",
+            "weight": 5
+          }
+        ]
+      }
+    },
+    "elf_female": {
+      "label": "エルフ女性",
+      "description": "柔らかく流れる響き",
+      "syllables": {
+        "start": [
+          {
+            "text": "エ",
+            "weight": 8
+          },
+          {
+            "text": "リ",
+            "weight": 10
+          },
+          {
+            "text": "シェ",
+            "weight": 5
+          },
+          {
+            "text": "ミ",
+            "weight": 6
+          },
+          {
+            "text": "シュ",
+            "weight": 5
+          },
+          {
+            "text": "フェ",
+            "weight": 5
+          },
+          {
+            "text": "ミイ",
+            "weight": 5
+          }
+        ],
+        "mid": [
+          {
+            "text": "リ",
+            "weight": 10
+          },
+          {
+            "text": "リア",
+            "weight": 7
+          },
+          {
+            "text": "レ",
+            "weight": 6
+          },
+          {
+            "text": "ネ",
+            "weight": 5
+          }
+        ],
+        "end": [
+          {
+            "text": "リア",
+            "weight": 10
+          },
+          {
+            "text": "シア",
+            "weight": 8
+          },
+          {
+            "text": "リエ",
+            "weight": 5
+          },
+          {
+            "text": "ミア",
+            "weight": 6
+          },
+          {
+            "text": "ヌ",
+            "weight": 5
+          },
+          {
+            "text": "リン",
+            "weight": 5
+          }
+        ]
+      },
+      "patterns": [
+        {
+          "id": "short",
+          "slots": [
+            "start",
+            "end"
+          ],
+          "weight": 15
+        },
+        {
+          "id": "standard",
+          "slots": [
+            "start",
+            "mid",
+            "end"
+          ],
+          "weight": 60
+        },
+        {
+          "id": "long",
+          "slots": [
+            "start",
+            "mid",
+            "mid",
+            "end"
+          ],
+          "weight": 25
+        }
+      ],
+      "rules": {
+        "minLength": 2,
+        "maxLength": 10,
+        "maxRepeat": 2,
+        "forbiddenStart": [
+          "ッ"
+        ],
+        "forbiddenEnd": [
+          "ッ",
+          "ァ",
+          "ィ",
+          "ゥ",
+          "ェ",
+          "ォ"
+        ]
+      },
+      "syllableGroups": {
+        "start": [
+          {
+            "text": "エ",
+            "weight": 8
+          },
+          {
+            "text": "リ",
+            "weight": 10
+          },
+          {
+            "text": "シェ",
+            "weight": 5
+          },
+          {
+            "text": "ミ",
+            "weight": 6
+          },
+          {
+            "text": "シュ",
+            "weight": 5
+          },
+          {
+            "text": "フェ",
+            "weight": 5
+          },
+          {
+            "text": "ミイ",
+            "weight": 5
+          }
+        ],
+        "mid": [
+          {
+            "text": "リ",
+            "weight": 10
+          },
+          {
+            "text": "リア",
+            "weight": 7
+          },
+          {
+            "text": "レ",
+            "weight": 6
+          },
+          {
+            "text": "ネ",
+            "weight": 5
+          }
+        ],
+        "end": [
+          {
+            "text": "リア",
+            "weight": 10
+          },
+          {
+            "text": "シア",
+            "weight": 8
+          },
+          {
+            "text": "リエ",
+            "weight": 5
+          },
+          {
+            "text": "ミア",
+            "weight": 6
+          },
+          {
+            "text": "ヌ",
+            "weight": 5
+          },
+          {
+            "text": "リン",
+            "weight": 5
+          }
+        ]
+      }
+    },
+    "03": {
+      "label": "日本男子",
+      "description": "和風",
+      "syllables": {
+        "start": [
+          {
+            "text": "ア",
+            "weight": 5
+          },
+          {
+            "text": "アイ",
+            "weight": 5
+          },
+          {
+            "text": "アオ",
+            "weight": 5
+          },
+          {
+            "text": "アキ",
+            "weight": 5
+          },
+          {
+            "text": "アク",
+            "weight": 5
+          },
+          {
+            "text": "アサ",
+            "weight": 5
+          },
+          {
+            "text": "アシ",
+            "weight": 5
+          },
+          {
+            "text": "アツ",
+            "weight": 5
+          },
+          {
+            "text": "アナ",
+            "weight": 5
+          },
+          {
+            "text": "アナゴ",
+            "weight": 5
+          },
+          {
+            "text": "アマ",
+            "weight": 5
+          },
+          {
+            "text": "アリ",
+            "weight": 5
+          },
+          {
+            "text": "アン",
+            "weight": 5
+          },
+          {
+            "text": "イエ",
+            "weight": 5
+          },
+          {
+            "text": "イカ",
+            "weight": 5
+          },
+          {
+            "text": "イシ",
+            "weight": 5
+          },
+          {
+            "text": "イチ",
+            "weight": 5
+          },
+          {
+            "text": "イツ",
+            "weight": 5
+          },
+          {
+            "text": "イヌ",
+            "weight": 5
+          },
+          {
+            "text": "イモ",
+            "weight": 5
+          },
+          {
+            "text": "イワ",
+            "weight": 5
+          },
+          {
+            "text": "イワシ",
+            "weight": 5
+          },
+          {
+            "text": "ウシ",
+            "weight": 5
+          },
+          {
+            "text": "ウス",
+            "weight": 5
+          },
+          {
+            "text": "ウナ",
+            "weight": 5
+          },
+          {
+            "text": "ウマ",
+            "weight": 5
+          },
+          {
+            "text": "ウミ",
+            "weight": 5
+          },
+          {
+            "text": "エビ",
+            "weight": 5
+          },
+          {
+            "text": "エン",
+            "weight": 5
+          },
+          {
+            "text": "オウ",
+            "weight": 5
+          },
+          {
+            "text": "オニ",
+            "weight": 5
+          },
+          {
+            "text": "オノ",
+            "weight": 5
+          },
+          {
+            "text": "オモ",
+            "weight": 5
+          },
+          {
+            "text": "カク",
+            "weight": 5
+          },
+          {
+            "text": "カグヤ",
+            "weight": 5
+          },
+          {
+            "text": "カジ",
+            "weight": 5
+          },
+          {
+            "text": "カズ",
+            "weight": 5
+          },
+          {
+            "text": "カゼ",
+            "weight": 5
+          },
+          {
+            "text": "カツ",
+            "weight": 5
+          },
+          {
+            "text": "カツオ",
+            "weight": 5
+          },
+          {
+            "text": "カネ",
+            "weight": 5
+          },
+          {
+            "text": "カミ",
+            "weight": 5
+          },
+          {
+            "text": "カムイ",
+            "weight": 5
+          },
+          {
+            "text": "カモ",
+            "weight": 5
+          },
+          {
+            "text": "カラ",
+            "weight": 5
+          },
+          {
+            "text": "カル",
+            "weight": 5
+          },
+          {
+            "text": "カワ",
+            "weight": 5
+          },
+          {
+            "text": "カン",
+            "weight": 5
+          },
+          {
+            "text": "ガン",
+            "weight": 5
+          },
+          {
+            "text": "キ",
+            "weight": 5
+          },
+          {
+            "text": "キチ",
+            "weight": 5
+          },
+          {
+            "text": "キヨ",
+            "weight": 5
+          },
+          {
+            "text": "キリ",
+            "weight": 5
+          },
+          {
+            "text": "キリン",
+            "weight": 5
+          },
+          {
+            "text": "キン",
+            "weight": 5
+          },
+          {
+            "text": "ギン",
+            "weight": 5
+          },
+          {
+            "text": "ク",
+            "weight": 5
+          },
+          {
+            "text": "クウ",
+            "weight": 5
+          },
+          {
+            "text": "クサ",
+            "weight": 5
+          },
+          {
+            "text": "クズ",
+            "weight": 5
+          },
+          {
+            "text": "クマ",
+            "weight": 5
+          },
+          {
+            "text": "クモ",
+            "weight": 5
+          },
+          {
+            "text": "クロ",
+            "weight": 5
+          },
+          {
+            "text": "ケツ",
+            "weight": 5
+          },
+          {
+            "text": "ケン",
+            "weight": 5
+          },
+          {
+            "text": "ゲン",
+            "weight": 5
+          },
+          {
+            "text": "コ",
+            "weight": 5
+          },
+          {
+            "text": "コイ",
+            "weight": 5
+          },
+          {
+            "text": "コウ",
+            "weight": 5
+          },
+          {
+            "text": "コク",
+            "weight": 5
+          },
+          {
+            "text": "コツ",
+            "weight": 5
+          },
+          {
+            "text": "コン",
+            "weight": 5
+          },
+          {
+            "text": "ゴ",
+            "weight": 5
+          },
+          {
+            "text": "ゴ",
+            "weight": 5
+          },
+          {
+            "text": "ゴウ",
+            "weight": 5
+          },
+          {
+            "text": "ゴク",
+            "weight": 5
+          },
+          {
+            "text": "ゴン",
+            "weight": 5
+          },
+          {
+            "text": "サイ",
+            "weight": 5
+          },
+          {
+            "text": "サオ",
+            "weight": 5
+          },
+          {
+            "text": "サギ",
+            "weight": 5
+          },
+          {
+            "text": "サク",
+            "weight": 5
+          },
+          {
+            "text": "サケ",
+            "weight": 5
+          },
+          {
+            "text": "サバ",
+            "weight": 5
+          },
+          {
+            "text": "サビ",
+            "weight": 5
+          },
+          {
+            "text": "サメ",
+            "weight": 5
+          },
+          {
+            "text": "サル",
+            "weight": 5
+          },
+          {
+            "text": "サン",
+            "weight": 5
+          },
+          {
+            "text": "ザ",
+            "weight": 5
+          },
+          {
+            "text": "ザン",
+            "weight": 5
+          },
+          {
+            "text": "シ",
+            "weight": 5
+          },
+          {
+            "text": "シオ",
+            "weight": 5
+          },
+          {
+            "text": "シカ",
+            "weight": 5
+          },
+          {
+            "text": "シゲ",
+            "weight": 5
+          },
+          {
+            "text": "シゲ",
+            "weight": 5
+          },
+          {
+            "text": "シチ",
+            "weight": 5
+          },
+          {
+            "text": "シノ",
+            "weight": 5
+          },
+          {
+            "text": "シブ",
+            "weight": 5
+          },
+          {
+            "text": "シュウ",
+            "weight": 5
+          },
+          {
+            "text": "シュラ",
+            "weight": 5
+          },
+          {
+            "text": "シュン",
+            "weight": 5
+          },
+          {
+            "text": "ショウ",
+            "weight": 5
+          },
+          {
+            "text": "シン",
+            "weight": 5
+          },
+          {
+            "text": "ジュウ",
+            "weight": 5
+          },
+          {
+            "text": "ジュン",
+            "weight": 5
+          },
+          {
+            "text": "ジョウ",
+            "weight": 5
+          },
+          {
+            "text": "ジン",
+            "weight": 5
+          },
+          {
+            "text": "スキ",
+            "weight": 5
+          },
+          {
+            "text": "スズ",
+            "weight": 5
+          },
+          {
+            "text": "セイ",
+            "weight": 5
+          },
+          {
+            "text": "セン",
+            "weight": 5
+          },
+          {
+            "text": "ゼン",
+            "weight": 5
+          },
+          {
+            "text": "タイ",
+            "weight": 5
+          },
+          {
+            "text": "タカ",
+            "weight": 5
+          },
+          {
+            "text": "タケ",
+            "weight": 5
+          },
+          {
+            "text": "タケル",
+            "weight": 5
+          },
+          {
+            "text": "タコ",
+            "weight": 5
+          },
+          {
+            "text": "タツ",
+            "weight": 5
+          },
+          {
+            "text": "タツミ",
+            "weight": 5
+          },
+          {
+            "text": "タラ",
+            "weight": 5
+          },
+          {
+            "text": "タン",
+            "weight": 5
+          },
+          {
+            "text": "ダイ",
+            "weight": 5
+          },
+          {
+            "text": "チカラ",
+            "weight": 5
+          },
+          {
+            "text": "チャ",
+            "weight": 5
+          },
+          {
+            "text": "チン",
+            "weight": 5
+          },
+          {
+            "text": "ツカサ",
+            "weight": 5
+          },
+          {
+            "text": "ツチ",
+            "weight": 5
+          },
+          {
+            "text": "ツナ",
+            "weight": 5
+          },
+          {
+            "text": "ツムジ",
+            "weight": 5
+          },
+          {
+            "text": "ツルギ",
+            "weight": 5
+          },
+          {
+            "text": "テン",
+            "weight": 5
+          },
+          {
+            "text": "デン",
+            "weight": 5
+          },
+          {
+            "text": "トウ",
+            "weight": 5
+          },
+          {
+            "text": "トキ",
+            "weight": 5
+          },
+          {
+            "text": "トラ",
+            "weight": 5
+          },
+          {
+            "text": "ドウ",
+            "weight": 5
+          },
+          {
+            "text": "ナツ",
+            "weight": 5
+          },
+          {
+            "text": "ナレ",
+            "weight": 5
+          },
+          {
+            "text": "ニ",
+            "weight": 5
+          },
+          {
+            "text": "ニク",
+            "weight": 5
+          },
+          {
+            "text": "ニシキ",
+            "weight": 5
+          },
+          {
+            "text": "ネギ",
+            "weight": 5
+          },
+          {
+            "text": "ネコ",
+            "weight": 5
+          },
+          {
+            "text": "ノブ",
+            "weight": 5
+          },
+          {
+            "text": "ハエ",
+            "weight": 5
+          },
+          {
+            "text": "ハク",
+            "weight": 5
+          },
+          {
+            "text": "ハチ",
+            "weight": 5
+          },
+          {
+            "text": "ハツ",
+            "weight": 5
+          },
+          {
+            "text": "ハム",
+            "weight": 5
+          },
+          {
+            "text": "ハヤテ",
+            "weight": 5
+          },
+          {
+            "text": "ハル",
+            "weight": 5
+          },
+          {
+            "text": "ハン",
+            "weight": 5
+          },
+          {
+            "text": "バン",
+            "weight": 5
+          },
+          {
+            "text": "ヒデ",
+            "weight": 5
+          },
+          {
+            "text": "ヒル",
+            "weight": 5
+          },
+          {
+            "text": "ヒロ",
+            "weight": 5
+          },
+          {
+            "text": "フウ",
+            "weight": 5
+          },
+          {
+            "text": "フジ",
+            "weight": 5
+          },
+          {
+            "text": "フネ",
+            "weight": 5
+          },
+          {
+            "text": "フユ",
+            "weight": 5
+          },
+          {
+            "text": "フル",
+            "weight": 5
+          },
+          {
+            "text": "ホネ",
+            "weight": 5
+          },
+          {
+            "text": "マイ",
+            "weight": 5
+          },
+          {
+            "text": "マグロ",
+            "weight": 5
+          },
+          {
+            "text": "マゴ",
+            "weight": 5
+          },
+          {
+            "text": "マサ",
+            "weight": 5
+          },
+          {
+            "text": "マタ",
+            "weight": 5
+          },
+          {
+            "text": "マツ",
+            "weight": 5
+          },
+          {
+            "text": "マル",
+            "weight": 5
+          },
+          {
+            "text": "マン",
+            "weight": 5
+          },
+          {
+            "text": "ミツ",
+            "weight": 5
+          },
+          {
+            "text": "ミナト",
+            "weight": 5
+          },
+          {
+            "text": "ム",
+            "weight": 5
+          },
+          {
+            "text": "ムサシ",
+            "weight": 5
+          },
+          {
+            "text": "ムツ",
+            "weight": 5
+          },
+          {
+            "text": "ムネ",
+            "weight": 5
+          },
+          {
+            "text": "ムラ",
+            "weight": 5
+          },
+          {
+            "text": "メ",
+            "weight": 5
+          },
+          {
+            "text": "モチ",
+            "weight": 5
+          },
+          {
+            "text": "モト",
+            "weight": 5
+          },
+          {
+            "text": "モモ",
+            "weight": 5
+          },
+          {
+            "text": "ヤ",
+            "weight": 5
+          },
+          {
+            "text": "ヤマ",
+            "weight": 5
+          },
+          {
+            "text": "ヤマト",
+            "weight": 5
+          },
+          {
+            "text": "ヨウ",
+            "weight": 5
+          },
+          {
+            "text": "ヨシ",
+            "weight": 5
+          },
+          {
+            "text": "ヨリ",
+            "weight": 5
+          },
+          {
+            "text": "リキ",
+            "weight": 5
+          },
+          {
+            "text": "リュウ",
+            "weight": 5
+          },
+          {
+            "text": "リョウ",
+            "weight": 5
+          },
+          {
+            "text": "リン",
+            "weight": 5
+          },
+          {
+            "text": "ロク",
+            "weight": 5
+          },
+          {
+            "text": "ワビ",
+            "weight": 5
+          },
+          {
+            "text": "ワラ",
+            "weight": 5
+          },
+          {
+            "text": "ワラビ",
+            "weight": 5
+          }
+        ],
+        "mid": [
+          {
+            "text": "ア",
+            "weight": 1
+          },
+          {
+            "text": "イ",
+            "weight": 1
+          },
+          {
+            "text": "ウ",
+            "weight": 1
+          },
+          {
+            "text": "エ",
+            "weight": 1
+          },
+          {
+            "text": "オ",
+            "weight": 1
+          },
+          {
+            "text": "カ",
+            "weight": 1
+          },
+          {
+            "text": "キ",
+            "weight": 1
+          },
+          {
+            "text": "ク",
+            "weight": 1
+          },
+          {
+            "text": "ケ",
+            "weight": 1
+          }
+        ],
+        "end": [
+          {
+            "text": "イエ",
+            "weight": 5
+          },
+          {
+            "text": "イチ",
+            "weight": 5
+          },
+          {
+            "text": "イツ",
+            "weight": 5
+          },
+          {
+            "text": "エモン",
+            "weight": 5
+          },
+          {
+            "text": "オ",
+            "weight": 5
+          },
+          {
+            "text": "オウ",
+            "weight": 5
+          },
+          {
+            "text": "カイ",
+            "weight": 5
+          },
+          {
+            "text": "カゲ",
+            "weight": 5
+          },
+          {
+            "text": "カゼ",
+            "weight": 5
+          },
+          {
+            "text": "カド",
+            "weight": 5
+          },
+          {
+            "text": "カベ",
+            "weight": 5
+          },
+          {
+            "text": "キチロウ",
+            "weight": 5
+          },
+          {
+            "text": "クサ",
+            "weight": 5
+          },
+          {
+            "text": "クニ",
+            "weight": 5
+          },
+          {
+            "text": "クロウ",
+            "weight": 5
+          },
+          {
+            "text": "ゴ",
+            "weight": 5
+          },
+          {
+            "text": "ゴロウ",
+            "weight": 5
+          },
+          {
+            "text": "サク",
+            "weight": 5
+          },
+          {
+            "text": "ザ",
+            "weight": 5
+          },
+          {
+            "text": "ザブロウ",
+            "weight": 5
+          },
+          {
+            "text": "シチ",
+            "weight": 5
+          },
+          {
+            "text": "シロウ",
+            "weight": 5
+          },
+          {
+            "text": "ジ",
+            "weight": 5
+          },
+          {
+            "text": "ジュウ",
+            "weight": 5
+          },
+          {
+            "text": "ジロウ",
+            "weight": 5
+          },
+          {
+            "text": "ジン",
+            "weight": 5
+          },
+          {
+            "text": "スケ",
+            "weight": 5
+          },
+          {
+            "text": "ゾウ",
+            "weight": 5
+          },
+          {
+            "text": "タ",
+            "weight": 5
+          },
+          {
+            "text": "タツ",
+            "weight": 5
+          },
+          {
+            "text": "タロウ",
+            "weight": 5
+          },
+          {
+            "text": "ツキ",
+            "weight": 5
+          },
+          {
+            "text": "ト",
+            "weight": 5
+          },
+          {
+            "text": "トク",
+            "weight": 5
+          },
+          {
+            "text": "ナガ",
+            "weight": 5
+          },
+          {
+            "text": "ナリ",
+            "weight": 5
+          },
+          {
+            "text": "ノシン",
+            "weight": 5
+          },
+          {
+            "text": "ノジョウ",
+            "weight": 5
+          },
+          {
+            "text": "ノスケ",
+            "weight": 5
+          },
+          {
+            "text": "ノリ",
+            "weight": 5
+          },
+          {
+            "text": "ハチ",
+            "weight": 5
+          },
+          {
+            "text": "ハル",
+            "weight": 5
+          },
+          {
+            "text": "ヒコ",
+            "weight": 5
+          },
+          {
+            "text": "ヒト",
+            "weight": 5
+          },
+          {
+            "text": "ヒラ",
+            "weight": 5
+          },
+          {
+            "text": "ベイ",
+            "weight": 5
+          },
+          {
+            "text": "ベエ",
+            "weight": 5
+          },
+          {
+            "text": "マ",
+            "weight": 5
+          },
+          {
+            "text": "マル",
+            "weight": 5
+          },
+          {
+            "text": "マロ",
+            "weight": 5
+          },
+          {
+            "text": "モリ",
+            "weight": 5
+          },
+          {
+            "text": "ヤ",
+            "weight": 5
+          },
+          {
+            "text": "ユキ",
+            "weight": 5
+          },
+          {
+            "text": "ヨリ",
+            "weight": 5
+          },
+          {
+            "text": "ロウ",
+            "weight": 5
+          },
+          {
+            "text": "ロク",
+            "weight": 5
+          }
+        ]
+      },
+      "patterns": [
+        {
+          "id": "short",
+          "slots": [
+            "start",
+            "end"
+          ],
+          "weight": 20
+        },
+        {
+          "id": "3",
+          "slots": [
+            "start",
+            "start"
+          ],
+          "weight": 8
+        },
+        {
+          "id": "2",
+          "slots": [
+            "start"
+          ],
+          "weight": 1
+        },
+        {
+          "id": "4",
+          "slots": [
+            "start",
+            "start",
+            "end"
+          ],
+          "weight": 2
+        }
+      ],
+      "rules": {
+        "minLength": 2,
+        "maxLength": 10,
+        "maxRepeat": 1,
+        "forbiddenStart": [
+          "ッ",
+          "ン"
+        ],
+        "forbiddenEnd": [
+          "ッ",
+          "ァ",
+          "ィ",
+          "ゥ",
+          "ェ",
+          "ォ"
+        ]
+      },
+      "syllableGroups": {
+        "start": [
+          {
+            "text": "ア",
+            "weight": 5
+          },
+          {
+            "text": "アイ",
+            "weight": 5
+          },
+          {
+            "text": "アオ",
+            "weight": 5
+          },
+          {
+            "text": "アキ",
+            "weight": 5
+          },
+          {
+            "text": "アク",
+            "weight": 5
+          },
+          {
+            "text": "アサ",
+            "weight": 5
+          },
+          {
+            "text": "アシ",
+            "weight": 5
+          },
+          {
+            "text": "アツ",
+            "weight": 5
+          },
+          {
+            "text": "アナ",
+            "weight": 5
+          },
+          {
+            "text": "アナゴ",
+            "weight": 5
+          },
+          {
+            "text": "アマ",
+            "weight": 5
+          },
+          {
+            "text": "アリ",
+            "weight": 5
+          },
+          {
+            "text": "アン",
+            "weight": 5
+          },
+          {
+            "text": "イエ",
+            "weight": 5
+          },
+          {
+            "text": "イカ",
+            "weight": 5
+          },
+          {
+            "text": "イシ",
+            "weight": 5
+          },
+          {
+            "text": "イチ",
+            "weight": 5
+          },
+          {
+            "text": "イツ",
+            "weight": 5
+          },
+          {
+            "text": "イヌ",
+            "weight": 5
+          },
+          {
+            "text": "イモ",
+            "weight": 5
+          },
+          {
+            "text": "イワ",
+            "weight": 5
+          },
+          {
+            "text": "イワシ",
+            "weight": 5
+          },
+          {
+            "text": "ウシ",
+            "weight": 5
+          },
+          {
+            "text": "ウス",
+            "weight": 5
+          },
+          {
+            "text": "ウナ",
+            "weight": 5
+          },
+          {
+            "text": "ウマ",
+            "weight": 5
+          },
+          {
+            "text": "ウミ",
+            "weight": 5
+          },
+          {
+            "text": "エビ",
+            "weight": 5
+          },
+          {
+            "text": "エン",
+            "weight": 5
+          },
+          {
+            "text": "オウ",
+            "weight": 5
+          },
+          {
+            "text": "オニ",
+            "weight": 5
+          },
+          {
+            "text": "オノ",
+            "weight": 5
+          },
+          {
+            "text": "オモ",
+            "weight": 5
+          },
+          {
+            "text": "カク",
+            "weight": 5
+          },
+          {
+            "text": "カグヤ",
+            "weight": 5
+          },
+          {
+            "text": "カジ",
+            "weight": 5
+          },
+          {
+            "text": "カズ",
+            "weight": 5
+          },
+          {
+            "text": "カゼ",
+            "weight": 5
+          },
+          {
+            "text": "カツ",
+            "weight": 5
+          },
+          {
+            "text": "カツオ",
+            "weight": 5
+          },
+          {
+            "text": "カネ",
+            "weight": 5
+          },
+          {
+            "text": "カミ",
+            "weight": 5
+          },
+          {
+            "text": "カムイ",
+            "weight": 5
+          },
+          {
+            "text": "カモ",
+            "weight": 5
+          },
+          {
+            "text": "カラ",
+            "weight": 5
+          },
+          {
+            "text": "カル",
+            "weight": 5
+          },
+          {
+            "text": "カワ",
+            "weight": 5
+          },
+          {
+            "text": "カン",
+            "weight": 5
+          },
+          {
+            "text": "ガン",
+            "weight": 5
+          },
+          {
+            "text": "キ",
+            "weight": 5
+          },
+          {
+            "text": "キチ",
+            "weight": 5
+          },
+          {
+            "text": "キヨ",
+            "weight": 5
+          },
+          {
+            "text": "キリ",
+            "weight": 5
+          },
+          {
+            "text": "キリン",
+            "weight": 5
+          },
+          {
+            "text": "キン",
+            "weight": 5
+          },
+          {
+            "text": "ギン",
+            "weight": 5
+          },
+          {
+            "text": "ク",
+            "weight": 5
+          },
+          {
+            "text": "クウ",
+            "weight": 5
+          },
+          {
+            "text": "クサ",
+            "weight": 5
+          },
+          {
+            "text": "クズ",
+            "weight": 5
+          },
+          {
+            "text": "クマ",
+            "weight": 5
+          },
+          {
+            "text": "クモ",
+            "weight": 5
+          },
+          {
+            "text": "クロ",
+            "weight": 5
+          },
+          {
+            "text": "ケツ",
+            "weight": 5
+          },
+          {
+            "text": "ケン",
+            "weight": 5
+          },
+          {
+            "text": "ゲン",
+            "weight": 5
+          },
+          {
+            "text": "コ",
+            "weight": 5
+          },
+          {
+            "text": "コイ",
+            "weight": 5
+          },
+          {
+            "text": "コウ",
+            "weight": 5
+          },
+          {
+            "text": "コク",
+            "weight": 5
+          },
+          {
+            "text": "コツ",
+            "weight": 5
+          },
+          {
+            "text": "コン",
+            "weight": 5
+          },
+          {
+            "text": "ゴ",
+            "weight": 5
+          },
+          {
+            "text": "ゴ",
+            "weight": 5
+          },
+          {
+            "text": "ゴウ",
+            "weight": 5
+          },
+          {
+            "text": "ゴク",
+            "weight": 5
+          },
+          {
+            "text": "ゴン",
+            "weight": 5
+          },
+          {
+            "text": "サイ",
+            "weight": 5
+          },
+          {
+            "text": "サオ",
+            "weight": 5
+          },
+          {
+            "text": "サギ",
+            "weight": 5
+          },
+          {
+            "text": "サク",
+            "weight": 5
+          },
+          {
+            "text": "サケ",
+            "weight": 5
+          },
+          {
+            "text": "サバ",
+            "weight": 5
+          },
+          {
+            "text": "サビ",
+            "weight": 5
+          },
+          {
+            "text": "サメ",
+            "weight": 5
+          },
+          {
+            "text": "サル",
+            "weight": 5
+          },
+          {
+            "text": "サン",
+            "weight": 5
+          },
+          {
+            "text": "ザ",
+            "weight": 5
+          },
+          {
+            "text": "ザン",
+            "weight": 5
+          },
+          {
+            "text": "シ",
+            "weight": 5
+          },
+          {
+            "text": "シオ",
+            "weight": 5
+          },
+          {
+            "text": "シカ",
+            "weight": 5
+          },
+          {
+            "text": "シゲ",
+            "weight": 5
+          },
+          {
+            "text": "シゲ",
+            "weight": 5
+          },
+          {
+            "text": "シチ",
+            "weight": 5
+          },
+          {
+            "text": "シノ",
+            "weight": 5
+          },
+          {
+            "text": "シブ",
+            "weight": 5
+          },
+          {
+            "text": "シュウ",
+            "weight": 5
+          },
+          {
+            "text": "シュラ",
+            "weight": 5
+          },
+          {
+            "text": "シュン",
+            "weight": 5
+          },
+          {
+            "text": "ショウ",
+            "weight": 5
+          },
+          {
+            "text": "シン",
+            "weight": 5
+          },
+          {
+            "text": "ジュウ",
+            "weight": 5
+          },
+          {
+            "text": "ジュン",
+            "weight": 5
+          },
+          {
+            "text": "ジョウ",
+            "weight": 5
+          },
+          {
+            "text": "ジン",
+            "weight": 5
+          },
+          {
+            "text": "スキ",
+            "weight": 5
+          },
+          {
+            "text": "スズ",
+            "weight": 5
+          },
+          {
+            "text": "セイ",
+            "weight": 5
+          },
+          {
+            "text": "セン",
+            "weight": 5
+          },
+          {
+            "text": "ゼン",
+            "weight": 5
+          },
+          {
+            "text": "タイ",
+            "weight": 5
+          },
+          {
+            "text": "タカ",
+            "weight": 5
+          },
+          {
+            "text": "タケ",
+            "weight": 5
+          },
+          {
+            "text": "タケル",
+            "weight": 5
+          },
+          {
+            "text": "タコ",
+            "weight": 5
+          },
+          {
+            "text": "タツ",
+            "weight": 5
+          },
+          {
+            "text": "タツミ",
+            "weight": 5
+          },
+          {
+            "text": "タラ",
+            "weight": 5
+          },
+          {
+            "text": "タン",
+            "weight": 5
+          },
+          {
+            "text": "ダイ",
+            "weight": 5
+          },
+          {
+            "text": "チカラ",
+            "weight": 5
+          },
+          {
+            "text": "チャ",
+            "weight": 5
+          },
+          {
+            "text": "チン",
+            "weight": 5
+          },
+          {
+            "text": "ツカサ",
+            "weight": 5
+          },
+          {
+            "text": "ツチ",
+            "weight": 5
+          },
+          {
+            "text": "ツナ",
+            "weight": 5
+          },
+          {
+            "text": "ツムジ",
+            "weight": 5
+          },
+          {
+            "text": "ツルギ",
+            "weight": 5
+          },
+          {
+            "text": "テン",
+            "weight": 5
+          },
+          {
+            "text": "デン",
+            "weight": 5
+          },
+          {
+            "text": "トウ",
+            "weight": 5
+          },
+          {
+            "text": "トキ",
+            "weight": 5
+          },
+          {
+            "text": "トラ",
+            "weight": 5
+          },
+          {
+            "text": "ドウ",
+            "weight": 5
+          },
+          {
+            "text": "ナツ",
+            "weight": 5
+          },
+          {
+            "text": "ナレ",
+            "weight": 5
+          },
+          {
+            "text": "ニ",
+            "weight": 5
+          },
+          {
+            "text": "ニク",
+            "weight": 5
+          },
+          {
+            "text": "ニシキ",
+            "weight": 5
+          },
+          {
+            "text": "ネギ",
+            "weight": 5
+          },
+          {
+            "text": "ネコ",
+            "weight": 5
+          },
+          {
+            "text": "ノブ",
+            "weight": 5
+          },
+          {
+            "text": "ハエ",
+            "weight": 5
+          },
+          {
+            "text": "ハク",
+            "weight": 5
+          },
+          {
+            "text": "ハチ",
+            "weight": 5
+          },
+          {
+            "text": "ハツ",
+            "weight": 5
+          },
+          {
+            "text": "ハム",
+            "weight": 5
+          },
+          {
+            "text": "ハヤテ",
+            "weight": 5
+          },
+          {
+            "text": "ハル",
+            "weight": 5
+          },
+          {
+            "text": "ハン",
+            "weight": 5
+          },
+          {
+            "text": "バン",
+            "weight": 5
+          },
+          {
+            "text": "ヒデ",
+            "weight": 5
+          },
+          {
+            "text": "ヒル",
+            "weight": 5
+          },
+          {
+            "text": "ヒロ",
+            "weight": 5
+          },
+          {
+            "text": "フウ",
+            "weight": 5
+          },
+          {
+            "text": "フジ",
+            "weight": 5
+          },
+          {
+            "text": "フネ",
+            "weight": 5
+          },
+          {
+            "text": "フユ",
+            "weight": 5
+          },
+          {
+            "text": "フル",
+            "weight": 5
+          },
+          {
+            "text": "ホネ",
+            "weight": 5
+          },
+          {
+            "text": "マイ",
+            "weight": 5
+          },
+          {
+            "text": "マグロ",
+            "weight": 5
+          },
+          {
+            "text": "マゴ",
+            "weight": 5
+          },
+          {
+            "text": "マサ",
+            "weight": 5
+          },
+          {
+            "text": "マタ",
+            "weight": 5
+          },
+          {
+            "text": "マツ",
+            "weight": 5
+          },
+          {
+            "text": "マル",
+            "weight": 5
+          },
+          {
+            "text": "マン",
+            "weight": 5
+          },
+          {
+            "text": "ミツ",
+            "weight": 5
+          },
+          {
+            "text": "ミナト",
+            "weight": 5
+          },
+          {
+            "text": "ム",
+            "weight": 5
+          },
+          {
+            "text": "ムサシ",
+            "weight": 5
+          },
+          {
+            "text": "ムツ",
+            "weight": 5
+          },
+          {
+            "text": "ムネ",
+            "weight": 5
+          },
+          {
+            "text": "ムラ",
+            "weight": 5
+          },
+          {
+            "text": "メ",
+            "weight": 5
+          },
+          {
+            "text": "モチ",
+            "weight": 5
+          },
+          {
+            "text": "モト",
+            "weight": 5
+          },
+          {
+            "text": "モモ",
+            "weight": 5
+          },
+          {
+            "text": "ヤ",
+            "weight": 5
+          },
+          {
+            "text": "ヤマ",
+            "weight": 5
+          },
+          {
+            "text": "ヤマト",
+            "weight": 5
+          },
+          {
+            "text": "ヨウ",
+            "weight": 5
+          },
+          {
+            "text": "ヨシ",
+            "weight": 5
+          },
+          {
+            "text": "ヨリ",
+            "weight": 5
+          },
+          {
+            "text": "リキ",
+            "weight": 5
+          },
+          {
+            "text": "リュウ",
+            "weight": 5
+          },
+          {
+            "text": "リョウ",
+            "weight": 5
+          },
+          {
+            "text": "リン",
+            "weight": 5
+          },
+          {
+            "text": "ロク",
+            "weight": 5
+          },
+          {
+            "text": "ワビ",
+            "weight": 5
+          },
+          {
+            "text": "ワラ",
+            "weight": 5
+          },
+          {
+            "text": "ワラビ",
+            "weight": 5
+          }
+        ],
+        "mid": [
+          {
+            "text": "ア",
+            "weight": 1
+          },
+          {
+            "text": "イ",
+            "weight": 1
+          },
+          {
+            "text": "ウ",
+            "weight": 1
+          },
+          {
+            "text": "エ",
+            "weight": 1
+          },
+          {
+            "text": "オ",
+            "weight": 1
+          },
+          {
+            "text": "カ",
+            "weight": 1
+          },
+          {
+            "text": "キ",
+            "weight": 1
+          },
+          {
+            "text": "ク",
+            "weight": 1
+          },
+          {
+            "text": "ケ",
+            "weight": 1
+          }
+        ],
+        "end": [
+          {
+            "text": "イエ",
+            "weight": 5
+          },
+          {
+            "text": "イチ",
+            "weight": 5
+          },
+          {
+            "text": "イツ",
+            "weight": 5
+          },
+          {
+            "text": "エモン",
+            "weight": 5
+          },
+          {
+            "text": "オ",
+            "weight": 5
+          },
+          {
+            "text": "オウ",
+            "weight": 5
+          },
+          {
+            "text": "カイ",
+            "weight": 5
+          },
+          {
+            "text": "カゲ",
+            "weight": 5
+          },
+          {
+            "text": "カゼ",
+            "weight": 5
+          },
+          {
+            "text": "カド",
+            "weight": 5
+          },
+          {
+            "text": "カベ",
+            "weight": 5
+          },
+          {
+            "text": "キチロウ",
+            "weight": 5
+          },
+          {
+            "text": "クサ",
+            "weight": 5
+          },
+          {
+            "text": "クニ",
+            "weight": 5
+          },
+          {
+            "text": "クロウ",
+            "weight": 5
+          },
+          {
+            "text": "ゴ",
+            "weight": 5
+          },
+          {
+            "text": "ゴロウ",
+            "weight": 5
+          },
+          {
+            "text": "サク",
+            "weight": 5
+          },
+          {
+            "text": "ザ",
+            "weight": 5
+          },
+          {
+            "text": "ザブロウ",
+            "weight": 5
+          },
+          {
+            "text": "シチ",
+            "weight": 5
+          },
+          {
+            "text": "シロウ",
+            "weight": 5
+          },
+          {
+            "text": "ジ",
+            "weight": 5
+          },
+          {
+            "text": "ジュウ",
+            "weight": 5
+          },
+          {
+            "text": "ジロウ",
+            "weight": 5
+          },
+          {
+            "text": "ジン",
+            "weight": 5
+          },
+          {
+            "text": "スケ",
+            "weight": 5
+          },
+          {
+            "text": "ゾウ",
+            "weight": 5
+          },
+          {
+            "text": "タ",
+            "weight": 5
+          },
+          {
+            "text": "タツ",
+            "weight": 5
+          },
+          {
+            "text": "タロウ",
+            "weight": 5
+          },
+          {
+            "text": "ツキ",
+            "weight": 5
+          },
+          {
+            "text": "ト",
+            "weight": 5
+          },
+          {
+            "text": "トク",
+            "weight": 5
+          },
+          {
+            "text": "ナガ",
+            "weight": 5
+          },
+          {
+            "text": "ナリ",
+            "weight": 5
+          },
+          {
+            "text": "ノシン",
+            "weight": 5
+          },
+          {
+            "text": "ノジョウ",
+            "weight": 5
+          },
+          {
+            "text": "ノスケ",
+            "weight": 5
+          },
+          {
+            "text": "ノリ",
+            "weight": 5
+          },
+          {
+            "text": "ハチ",
+            "weight": 5
+          },
+          {
+            "text": "ハル",
+            "weight": 5
+          },
+          {
+            "text": "ヒコ",
+            "weight": 5
+          },
+          {
+            "text": "ヒト",
+            "weight": 5
+          },
+          {
+            "text": "ヒラ",
+            "weight": 5
+          },
+          {
+            "text": "ベイ",
+            "weight": 5
+          },
+          {
+            "text": "ベエ",
+            "weight": 5
+          },
+          {
+            "text": "マ",
+            "weight": 5
+          },
+          {
+            "text": "マル",
+            "weight": 5
+          },
+          {
+            "text": "マロ",
+            "weight": 5
+          },
+          {
+            "text": "モリ",
+            "weight": 5
+          },
+          {
+            "text": "ヤ",
+            "weight": 5
+          },
+          {
+            "text": "ユキ",
+            "weight": 5
+          },
+          {
+            "text": "ヨリ",
+            "weight": 5
+          },
+          {
+            "text": "ロウ",
+            "weight": 5
+          },
+          {
+            "text": "ロク",
+            "weight": 5
+          }
+        ]
+      }
+    },
+    "04": {
+      "label": "日本女子",
+      "description": "和風",
+      "syllables": {
+        "start": [
+          {
+            "text": "アイ",
+            "weight": 5
+          },
+          {
+            "text": "アオイ",
+            "weight": 5
+          },
+          {
+            "text": "アカ",
+            "weight": 5
+          },
+          {
+            "text": "アカネ",
+            "weight": 5
+          },
+          {
+            "text": "アツ",
+            "weight": 5
+          },
+          {
+            "text": "アマ",
+            "weight": 5
+          },
+          {
+            "text": "アヤ",
+            "weight": 5
+          },
+          {
+            "text": "アユ",
+            "weight": 5
+          },
+          {
+            "text": "イク",
+            "weight": 5
+          },
+          {
+            "text": "イズミ",
+            "weight": 5
+          },
+          {
+            "text": "イネ",
+            "weight": 5
+          },
+          {
+            "text": "ウミ",
+            "weight": 5
+          },
+          {
+            "text": "ウメ",
+            "weight": 5
+          },
+          {
+            "text": "カエ",
+            "weight": 5
+          },
+          {
+            "text": "カエデ",
+            "weight": 5
+          },
+          {
+            "text": "カツ",
+            "weight": 5
+          },
+          {
+            "text": "カナ",
+            "weight": 5
+          },
+          {
+            "text": "カヌ",
+            "weight": 5
+          },
+          {
+            "text": "カノ",
+            "weight": 5
+          },
+          {
+            "text": "キク",
+            "weight": 5
+          },
+          {
+            "text": "キヌ",
+            "weight": 5
+          },
+          {
+            "text": "キネ",
+            "weight": 5
+          },
+          {
+            "text": "キン",
+            "weight": 5
+          },
+          {
+            "text": "ギン",
+            "weight": 5
+          },
+          {
+            "text": "コズエ",
+            "weight": 5
+          },
+          {
+            "text": "コト",
+            "weight": 5
+          },
+          {
+            "text": "サキ",
+            "weight": 5
+          },
+          {
+            "text": "サク",
+            "weight": 5
+          },
+          {
+            "text": "サクラ",
+            "weight": 5
+          },
+          {
+            "text": "サダ",
+            "weight": 5
+          },
+          {
+            "text": "サヤ",
+            "weight": 5
+          },
+          {
+            "text": "サヨ",
+            "weight": 5
+          },
+          {
+            "text": "サラ",
+            "weight": 5
+          },
+          {
+            "text": "スズ",
+            "weight": 5
+          },
+          {
+            "text": "スミ",
+            "weight": 5
+          },
+          {
+            "text": "スミレ",
+            "weight": 5
+          },
+          {
+            "text": "タイ",
+            "weight": 5
+          },
+          {
+            "text": "タエ",
+            "weight": 5
+          },
+          {
+            "text": "タオ",
+            "weight": 5
+          },
+          {
+            "text": "タツ",
+            "weight": 5
+          },
+          {
+            "text": "タマ",
+            "weight": 5
+          },
+          {
+            "text": "チエ",
+            "weight": 5
+          },
+          {
+            "text": "チズル",
+            "weight": 5
+          },
+          {
+            "text": "チヤ",
+            "weight": 5
+          },
+          {
+            "text": "チヨ",
+            "weight": 5
+          },
+          {
+            "text": "ツキ",
+            "weight": 5
+          },
+          {
+            "text": "トネ",
+            "weight": 5
+          },
+          {
+            "text": "トモ",
+            "weight": 5
+          },
+          {
+            "text": "ナエ",
+            "weight": 5
+          },
+          {
+            "text": "ナズ",
+            "weight": 5
+          },
+          {
+            "text": "ナミ",
+            "weight": 5
+          },
+          {
+            "text": "ネズ",
+            "weight": 5
+          },
+          {
+            "text": "ハナ",
+            "weight": 5
+          },
+          {
+            "text": "ハマ",
+            "weight": 5
+          },
+          {
+            "text": "ハル",
+            "weight": 5
+          },
+          {
+            "text": "フミ",
+            "weight": 5
+          },
+          {
+            "text": "マイ",
+            "weight": 5
+          },
+          {
+            "text": "マオ",
+            "weight": 5
+          },
+          {
+            "text": "マミ",
+            "weight": 5
+          },
+          {
+            "text": "マヤ",
+            "weight": 5
+          },
+          {
+            "text": "ヤイ",
+            "weight": 5
+          },
+          {
+            "text": "ヤエ",
+            "weight": 5
+          },
+          {
+            "text": "ユミ",
+            "weight": 5
+          },
+          {
+            "text": "ヨネ",
+            "weight": 5
+          },
+          {
+            "text": "ワカ",
+            "weight": 5
+          },
+          {
+            "text": "イモ",
+            "weight": 5
+          }
+        ],
+        "mid": [
+          {
+            "text": "ラ",
+            "weight": 5
+          }
+        ],
+        "end": [
+          {
+            "text": "コ",
+            "weight": 5
+          },
+          {
+            "text": "ヒメ",
+            "weight": 5
+          },
+          {
+            "text": "エ",
+            "weight": 5
+          },
+          {
+            "text": "ネ",
+            "weight": 5
+          },
+          {
+            "text": "オト",
+            "weight": 5
+          },
+          {
+            "text": "ヨミ",
+            "weight": 5
+          },
+          {
+            "text": "メ",
+            "weight": 5
+          },
+          {
+            "text": "ナ",
+            "weight": 5
+          },
+          {
+            "text": "カ",
+            "weight": 5
+          },
+          {
+            "text": "ミ",
+            "weight": 5
+          },
+          {
+            "text": "ノ",
+            "weight": 5
+          }
+        ]
+      },
+      "patterns": [
+        {
+          "id": "short",
+          "slots": [
+            "start",
+            "end"
+          ],
+          "weight": 20
+        },
+        {
+          "id": "2",
+          "slots": [
+            "start"
+          ],
+          "weight": 5
+        }
+      ],
+      "rules": {
+        "minLength": 2,
+        "maxLength": 10,
+        "maxRepeat": 1,
+        "forbiddenStart": [
+          "ッ"
+        ],
+        "forbiddenEnd": [
+          "ッ",
+          "ァ",
+          "ィ",
+          "ゥ",
+          "ェ",
+          "ォ"
+        ]
+      },
+      "syllableGroups": {
+        "start": [
+          {
+            "text": "アイ",
+            "weight": 5
+          },
+          {
+            "text": "アオイ",
+            "weight": 5
+          },
+          {
+            "text": "アカ",
+            "weight": 5
+          },
+          {
+            "text": "アカネ",
+            "weight": 5
+          },
+          {
+            "text": "アツ",
+            "weight": 5
+          },
+          {
+            "text": "アマ",
+            "weight": 5
+          },
+          {
+            "text": "アヤ",
+            "weight": 5
+          },
+          {
+            "text": "アユ",
+            "weight": 5
+          },
+          {
+            "text": "イク",
+            "weight": 5
+          },
+          {
+            "text": "イズミ",
+            "weight": 5
+          },
+          {
+            "text": "イネ",
+            "weight": 5
+          },
+          {
+            "text": "ウミ",
+            "weight": 5
+          },
+          {
+            "text": "ウメ",
+            "weight": 5
+          },
+          {
+            "text": "カエ",
+            "weight": 5
+          },
+          {
+            "text": "カエデ",
+            "weight": 5
+          },
+          {
+            "text": "カツ",
+            "weight": 5
+          },
+          {
+            "text": "カナ",
+            "weight": 5
+          },
+          {
+            "text": "カヌ",
+            "weight": 5
+          },
+          {
+            "text": "カノ",
+            "weight": 5
+          },
+          {
+            "text": "キク",
+            "weight": 5
+          },
+          {
+            "text": "キヌ",
+            "weight": 5
+          },
+          {
+            "text": "キネ",
+            "weight": 5
+          },
+          {
+            "text": "キン",
+            "weight": 5
+          },
+          {
+            "text": "ギン",
+            "weight": 5
+          },
+          {
+            "text": "コズエ",
+            "weight": 5
+          },
+          {
+            "text": "コト",
+            "weight": 5
+          },
+          {
+            "text": "サキ",
+            "weight": 5
+          },
+          {
+            "text": "サク",
+            "weight": 5
+          },
+          {
+            "text": "サクラ",
+            "weight": 5
+          },
+          {
+            "text": "サダ",
+            "weight": 5
+          },
+          {
+            "text": "サヤ",
+            "weight": 5
+          },
+          {
+            "text": "サヨ",
+            "weight": 5
+          },
+          {
+            "text": "サラ",
+            "weight": 5
+          },
+          {
+            "text": "スズ",
+            "weight": 5
+          },
+          {
+            "text": "スミ",
+            "weight": 5
+          },
+          {
+            "text": "スミレ",
+            "weight": 5
+          },
+          {
+            "text": "タイ",
+            "weight": 5
+          },
+          {
+            "text": "タエ",
+            "weight": 5
+          },
+          {
+            "text": "タオ",
+            "weight": 5
+          },
+          {
+            "text": "タツ",
+            "weight": 5
+          },
+          {
+            "text": "タマ",
+            "weight": 5
+          },
+          {
+            "text": "チエ",
+            "weight": 5
+          },
+          {
+            "text": "チズル",
+            "weight": 5
+          },
+          {
+            "text": "チヤ",
+            "weight": 5
+          },
+          {
+            "text": "チヨ",
+            "weight": 5
+          },
+          {
+            "text": "ツキ",
+            "weight": 5
+          },
+          {
+            "text": "トネ",
+            "weight": 5
+          },
+          {
+            "text": "トモ",
+            "weight": 5
+          },
+          {
+            "text": "ナエ",
+            "weight": 5
+          },
+          {
+            "text": "ナズ",
+            "weight": 5
+          },
+          {
+            "text": "ナミ",
+            "weight": 5
+          },
+          {
+            "text": "ネズ",
+            "weight": 5
+          },
+          {
+            "text": "ハナ",
+            "weight": 5
+          },
+          {
+            "text": "ハマ",
+            "weight": 5
+          },
+          {
+            "text": "ハル",
+            "weight": 5
+          },
+          {
+            "text": "フミ",
+            "weight": 5
+          },
+          {
+            "text": "マイ",
+            "weight": 5
+          },
+          {
+            "text": "マオ",
+            "weight": 5
+          },
+          {
+            "text": "マミ",
+            "weight": 5
+          },
+          {
+            "text": "マヤ",
+            "weight": 5
+          },
+          {
+            "text": "ヤイ",
+            "weight": 5
+          },
+          {
+            "text": "ヤエ",
+            "weight": 5
+          },
+          {
+            "text": "ユミ",
+            "weight": 5
+          },
+          {
+            "text": "ヨネ",
+            "weight": 5
+          },
+          {
+            "text": "ワカ",
+            "weight": 5
+          },
+          {
+            "text": "イモ",
+            "weight": 5
+          }
+        ],
+        "mid": [
+          {
+            "text": "ラ",
+            "weight": 5
+          }
+        ],
+        "end": [
+          {
+            "text": "コ",
+            "weight": 5
+          },
+          {
+            "text": "ヒメ",
+            "weight": 5
+          },
+          {
+            "text": "エ",
+            "weight": 5
+          },
+          {
+            "text": "ネ",
+            "weight": 5
+          },
+          {
+            "text": "オト",
+            "weight": 5
+          },
+          {
+            "text": "ヨミ",
+            "weight": 5
+          },
+          {
+            "text": "メ",
+            "weight": 5
+          },
+          {
+            "text": "ナ",
+            "weight": 5
+          },
+          {
+            "text": "カ",
+            "weight": 5
+          },
+          {
+            "text": "ミ",
+            "weight": 5
+          },
+          {
+            "text": "ノ",
+            "weight": 5
+          }
+        ]
+      }
+    }
+  }
+}

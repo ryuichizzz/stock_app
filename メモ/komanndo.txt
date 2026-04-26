@@ -1,0 +1,107 @@
+りゅういちさん専用 Python開発ルール（Windows / VSCode）
+0) 絶対ルール
+
+Store版Pythonは使わない
+WindowsApps\PythonSoftwareFoundation... が出たら「環境ズレ」疑い。
+
+プロジェクトごとに必ず venv（.venv）
+
+pip と PyInstaller は “python -m” 経由で呼ぶ（事故防止）
+
+1) 新規プロジェクトの作り方（テンプレ）
+フォルダ作成
+MyApp/
+ ├ app.py
+ ├ requirements.txt（後で作る）
+ └ .venv/（後で作る）
+
+venv作成（推奨：pyでバージョン指定）
+py -3.14 -m venv .venv
+
+venv起動（PowerShell）
+.\.venv\Scripts\Activate.ps1
+
+pip更新（最初に1回）
+python -m pip install --upgrade pip
+
+2) ライブラリ管理（鉄板）
+追加
+
+いまの環境を保存（requirements.txt作成）
+python -m pip freeze > requirements.txt
+
+別PC/別環境で復元
+python -m pip install -r requirements.txt
+
+3) “環境ズレ”の即チェック3点セット（困ったらこれ）
+where python
+python --version
+python -m pip --version
+
+NG例
+
+WindowsApps が混ざる
+
+.venv じゃないpythonが動いてる
+→ venv作り直しが最速
+
+4) venvが壊れた時の最短復旧（Store版消した後によく起きる）
+deactivate
+Remove-Item -Recurse -Force .venv
+py -3.14 -m venv .venv
+.\.venv\Scripts\Activate.ps1
+python -m pip install -r requirements.txt
+
+5) PyInstaller（EXE化）ルール
+基本（安全）
+python -m PyInstaller --onefile --windowed app.py
+
+EXEの出力場所
+dist\app.exe
+
+“フォント/画像を同梱”する（Windowsは区切り ;）
+python -m PyInstaller --onefile --windowed --add-data "fonts/BIZ-UDGOTHICB.TTC;fonts" app.py
+
+
+PowerShellは改行継続に ^ を使わない（cmd専用）
+PowerShellなら改行はバッククォート ` だけど、1行で書くのが一番安全。
+
+6) 配布前チェック（これだけ）
+
+✅ dist\*.exe を 別フォルダにコピーして動くか（相対パス事故の検出）
+
+✅ フォント・画像が表示されるか
+
+✅ 初回起動でエラーが出ないか
+
+7) りゅういちさん流 “勝ちパターン”まとめ
+
+venvを作る
+
+python -m pip で入れる
+
+python -m PyInstaller で固める
+
+おかしくなったら venv作り直す（時間最安）
+
+🍊必要なら、このチートシートを README.md形式にして、
+「労働者名簿」プロジェクト用に そのままコピペで使える版（フォルダ構成やビルドコマンド入り）に整えて渡しますよ。
+
+
+PIPの内容表示
+python -m pip list
+
+# もし(.venv)が付いてたら一回抜ける
+deactivate
+
+# 既存venvを消す
+Remove-Item -Recurse -Force .venv
+
+# Python 3.12でvenv作成
+py -3.12 -m venv .venv
+
+# 有効化
+.\.venv\Scripts\Activate.ps1
+
+# 確認（ここが超重要）
+python -V

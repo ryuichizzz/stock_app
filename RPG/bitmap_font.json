@@ -1,0 +1,13 @@
+{
+  "image": "bitmap_font.png",
+  "glyph_width": 16,
+  "glyph_height": 16,
+  "columns": 16,
+  "rows": 9,
+  "characters": "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!?:;.,+-*/()[]<>{}=_~\"'アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンー",
+  "offset_x": 0,
+  "offset_y": 0,
+  "padding": 0,
+  "antialias": false,
+  "threshold": 128
+}

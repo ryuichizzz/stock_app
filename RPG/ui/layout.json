@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "canvas_width": 640,
+    "canvas_height": 480,
+    "grid_size": 16
+  },
+  "objects": [
+    {
+      "id": "a5597a5e-d779-4b79-ae43-b2a42b44fd48",
+      "name": "battle_message",
+      "type": "message_window",
+      "x": 0,
+      "y": 352,
+      "w": 640,
+      "h": 128,
+      "text": "スライムがあらわれた！\nなにをする？",
+      "selected_index": 0,
+      "lines": null,
+      "image_path": "",
+      "image_scale": 1,
+      "cursor_image_path": "",
+      "frame_image_path": "C:/Users/ryuic/Documents/VisualStudioCode/python/RPG/sample_frame_simple_round_white.png",
+      "slice_left": 32,
+      "slice_right": 32,
+      "slice_top": 32,
+      "slice_bottom": 32,
+      "cursor_offset_x": 0,
+      "cursor_offset_y": 0,
+      "z_value": 0,
+      "bitmap_font_json": ""
+    },
+    {
+      "id": "0b40f315-4668-40eb-8990-3f49329913e0",
+      "name": "battle_command",
+      "type": "command_menu",
+      "x": 480,
+      "y": 224,
+      "w": 144,
+      "h": 112,
+      "text": "",
+      "selected_index": 0,
+      "lines": [
+        "たたかう",
+        "まほう",
+        "どうぐ",
+        "にげる"
+      ],
+      "image_path": "",
+      "image_scale": 1,
+      "cursor_image_path": "",
+      "frame_image_path": "C:/Users/ryuic/Documents/VisualStudioCode/python/RPG/sample_frame_simple_round_white.png",
+      "slice_left": 32,
+      "slice_right": 32,
+      "slice_top": 32,
+      "slice_bottom": 32,
+      "cursor_offset_x": 0,
+      "cursor_offset_y": 0,
+      "z_value": 0,
+      "bitmap_font_json": ""
+    }
+  ]
+}

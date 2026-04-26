@@ -1,0 +1,9 @@
+{
+  "黒丸枠": {
+    "frame_image_path": "C:/Users/ryuic/Documents/VisualStudioCode/python/RPG/sample_frame_simple_round_white.png",
+    "slice_left": 32,
+    "slice_right": 32,
+    "slice_top": 32,
+    "slice_bottom": 32
+  }
+}

@@ -1,0 +1,29 @@
+
+
+※ venvも作り直すと完璧
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+python -m pip install pyinstaller
+
+※ ライブラリ入れるとき
+python -m pip install ○○
+
+※ EXE化するとき
+python -m pyinstaller ...
+python -m pyinstaller --onefile --windowed era_year_to_ad.py
+
+
+アプリごとにvenvを作る
+python -m venv .venv
+
+venvに入る
+
+
+その中でpipする
+python -m pip install pyinstaller
+
+
+pyinstaller --onefile --windowed desktop_app.py ^
+  --add-data "fonts/BIZ-UDGOTHICB.TTC;fonts"
+
+python -m PyInstaller --onefile --windowed desktop_app.py --add-data "fonts/BIZ-UDGOTHICB.TTC;fonts"
